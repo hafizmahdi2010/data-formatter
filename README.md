@@ -23,7 +23,7 @@ To install the library, use npm:
 
 ## Usage
 ```javascript
-const { formatData } = require('data-formatter-library');
+const { formatData } = require('data-formatter');
 
 const schema = [
     { key: "id", type: "number" },
